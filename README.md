@@ -8,7 +8,7 @@ CompileBox 使用一个 *Docker* 沙盒环境来编译运行不可信的代码�
 你可以通过以下实例了解:
 
  - 最小实例: [compile.remoteinterview.io][1]
- - 完没实例: [codepad.remoteinterview.io][2]
+ - 完整实例: [codepad.remoteinterview.io][2]
 
 ## `CompileBox` 是如何工作的? ##
 
